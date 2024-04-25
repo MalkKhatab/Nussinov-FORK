@@ -12,4 +12,5 @@ a non-crossing RNA structure P of S that maximizes
 
 Contributors:
 - Malk Khalid
+- Mayar Ehab
 - 
